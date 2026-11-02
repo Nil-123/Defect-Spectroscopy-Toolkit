@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# IDEs
+.spyproject/
+.vscode/
+.idea/
+
+# Environments
+venv/
+.venv/
+
+# Generated outputs
+results/*
+!results/.gitkeep
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system
+Thumbs.db
+.DS_Store
+Desktop.ini
