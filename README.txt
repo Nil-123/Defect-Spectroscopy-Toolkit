@@ -70,4 +70,4 @@ The project is being developed as a collection of modular, reusable scientific a
 Nilesh Dalla  
 University of Warsaw
 
-Research interests: optical spectroscopy, solid-state defects, quantum emitters, and nanophotonics.
+Research interests: optical spectroscopy, solid-state defects, quantum emitters.
