@@ -23,9 +23,6 @@ See [PL Mapping documentation](src/defect_spectroscopy/mapping/README.md) for de
 The repository is intended to grow with additional analysis tools, including:
 
 - **Spectral analysis:** Peak detection, fitting, linewidth extraction, and background subtraction.
-- **Emitter correlation:** Analysis of relationships between emitter properties, such as emission wavelength, linewidth, intensity, and excitation resonances.
-- **Temperature-dependent spectroscopy:** Tracking spectral properties as a function of temperature.
-- **Polarisation-dependent spectroscopy:** Analysis of emission and excitation polarisation characteristics.
 - **PLE analysis:** Identification and characterisation of excitation resonances.
 - **Photon-correlation analysis:** Processing and fitting of second-order correlation measurements.
 
@@ -36,10 +33,6 @@ These are planned extensions, not necessarily implemented features.
 ```text
 src/                  Python analysis modules
 examples/             Example datasets
-notebooks/            Interactive demonstrations
-docs/                 Additional documentation
-tests/                Software tests
-results/              Locally generated analysis outputs
 ```
 
 ## Installation
@@ -51,11 +44,6 @@ git clone https://github.com/YOUR_USERNAME/Defect-Spectroscopy-Toolkit.git
 cd Defect-Spectroscopy-Toolkit
 ```
 
-Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Getting Started
 
